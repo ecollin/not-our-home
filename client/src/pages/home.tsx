@@ -65,7 +65,7 @@ export default function Home() {
       'Josh Lau': 'Josh Lau.jpg',
       'Ding Lee': 'Ding J_s Headshot.jpg',
       'John Jiang': 'John Jiang.jpg',
-      'Dominic Wong': 'Dominic Wong - Headshot 20250512.jpg',
+      'Didi Won': 'Dominic Wong - Headshot 20250512.jpg',
       'Lei Chow': 'Lei Chow.jpg',
       'Tien-Li Wu': 'Tien-Li Wu.jpg',
       'Boyu Chen': 'Boyu Chen.jpg',
@@ -308,12 +308,12 @@ export default function Home() {
 
                 <div className="text-center bg-black/20 border border-red-900/20 rounded-lg p-6">
                   <div className="w-48 h-48 rounded-lg mb-4 mx-auto overflow-hidden">
-                    <HeadshotImage name="Dominic Wong" alt="Dominic Wong headshot" />
+                    <HeadshotImage name="Didi Won" alt="Didi Won headshot" />
                   </div>
-                  <h4 className="text-white font-bold text-lg mb-1">Dominic Wong</h4>
+                  <h4 className="text-white font-bold text-lg mb-1">Didi Won</h4>
                   <p className="text-white/80 text-sm mb-3">Actor – UNCLE</p>
                   <TruncatedBio>
-                    Bio coming soon
+                    Didi is a NYC based actor and singer. He has acted in more than 30 plus short films and several off off Broadway Plays.
                   </TruncatedBio>
                 </div>
 
